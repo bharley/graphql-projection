@@ -1,6 +1,6 @@
 {
   "name": "graphql-projection",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create a MongoDB projection from a GraphQL query",
   "main": "dist/index.js",
   "scripts": {
